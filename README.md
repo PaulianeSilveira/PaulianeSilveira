@@ -1,6 +1,6 @@
 # 👩‍💻 Pauliane Silveira
 
-🎓 34 years old, student of Software Development at Fatec Franca  
+🎓 34 years old, student of Multi-platform Software Development at Fatec Franca  
 🔄 Career transition from public administration to technology  
 💻 Experience in Machine Learning and Computer Vision at Instituto de Pesquisas Eldorado  
 📚 Participant in the Technological Residency Program in AI, IoT, and Cybersecurity (CPQD, PUCC, Softex, MCTI)  
